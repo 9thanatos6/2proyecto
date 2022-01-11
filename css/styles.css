@@ -1,0 +1,230 @@
+
+@media screen and (min-width: 320px) {
+
+    body {
+
+        height: 200vh;
+
+    }
+
+    header {
+
+        height: auto;
+
+    }
+
+    main {
+
+        height: 65%;
+
+    }
+
+    footer {
+
+        height: 35%;
+
+    }
+
+    /* <!-- =============================================== --> */
+                        /* <!-- HEADER --> */
+    /* <!-- =============================================== --> */
+
+    .navbar {
+
+        height: 100%;
+
+    }
+
+    /* <!-- =============================================== --> */
+                        /* <!-- HEADER --> */
+    /* <!-- =============================================== --> */
+
+
+
+
+
+
+    /* <!-- =============================================== --> */
+                        /* <!-- MAIN --> */
+    /* <!-- =============================================== --> */
+
+    #banner {
+
+        background-image: url(../images/banner/pexels-1.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 25%;
+        
+    }
+
+    /* <!-- =============================================== --> */
+
+    #products {
+
+        /* background-color: orange; */
+        height: 75%;
+
+    }
+
+    /* <!-- =============================================== --> */
+
+    #sabores {
+
+        background-color: red;
+        height: 50%;
+
+    }
+
+    .bg-sabores {
+
+        background-image: url(../images/products/sabores/pexels-1.jpg);
+
+    }
+
+    /* <!-- =============================================== --> */
+
+    .a-p {
+
+        font-size: 40px;
+
+    }
+
+    .box-p {
+        background-color: yellow;
+        width: 100%;
+        height: 100%;
+        
+    }
+
+    .bg-p {
+
+        background-size: cover;
+        background-position: center;
+        width: 250px;
+        height: 225px;
+
+    }
+
+    /* <!-- =============================================== --> */
+
+    #postres {
+
+        background-color: blue;
+        height: 50%;
+
+    }
+
+    .bg-postres {
+
+        background-image: url(../images/products/postres/x-1.png);
+
+    }
+
+    /* <!-- =============================================== --> */
+                        /* <!-- MAIN --> */
+    /* <!-- =============================================== --> */
+
+
+
+
+
+
+    /* <!-- =============================================== -->
+                        <!-- FOOTER --> 
+    <!-- =============================================== -->     */
+
+    #group {
+
+        background-color: pink;
+        height: 50%;
+        font-size: 25px;
+
+    }
+
+    .form-group {
+
+        height: 100%;
+
+    }
+
+    /* <!-- =============================================== --> */
+
+    #newsletter {
+
+        height: 65%;
+
+    }
+
+    /* <!-- =============================================== --> */
+
+    #social {
+
+        height: 35%;
+
+    }
+
+    /* <!-- =============================================== --> */
+
+    #rights {
+
+        height: 50%;
+
+    }
+
+    /* <!-- =============================================== -->
+                        <!-- FOOTER --> 
+    <!-- =============================================== -->     */
+
+}
+
+
+
+
+
+
+@media screen and (min-width: 720px) {
+
+    main {
+
+        height: 80%;
+
+    }
+
+    footer {
+
+        height: 20%;
+
+    }
+
+    #group {
+
+        height: 90%;
+
+    }
+
+    #rights {
+
+        height: 10%;
+
+    }
+
+    .bg-p {
+
+        width: 300px;
+        height: 300px;
+
+    }
+
+}
+
+
+
+
+
+
+@media screen and (min-width: 1200px) {
+
+
+
+
+}
